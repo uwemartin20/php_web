@@ -58,17 +58,14 @@ composer install
 Das Frontend basiert auf Bootstrap und nutzt individuelle HTML, CSS und JavaScript, um eine moderne und responsive Benutzeroberfläche zu bieten.
 ## 🚧 Hinweise zur Entwicklung
 
-    Alle Seiten verwenden wiederverwendbare Template-Teile (Header, Footer etc.), um einheitliches Layout sicherzustellen.
-
-    Die Seiten-Routing erfolgt manuell oder über einen einfachen PHP-Router.
-
-    Achte darauf, dass die Dateiberechtigungen in den Docker-Containern korrekt gesetzt sind, damit Änderungen im Entwicklungsprozess übernommen werden.
+lle Seiten verwenden wiederverwendbare Template-Teile (Header, Footer etc.), um einheitliches Layout sicherzustellen.
+Die Seiten-Routing erfolgt manuell oder über einen einfachen PHP-Router.
+Achte darauf, dass die Dateiberechtigungen in den Docker-Containern korrekt gesetzt sind, damit Änderungen im Entwicklungsprozess übernommen werden.
 
 ## 🔒 Sicherheit & Datenschutz
 
-    DSGVO-konform: Rechtliche Seiten wie Datenschutz und Impressum sind enthalten.
-
-    Die Google Maps API wird ausschließlich auf der Kontakt-Seite geladen, um die Datenerfassung zu minimieren.
+DSGVO-konform: Rechtliche Seiten wie Datenschutz und Impressum sind enthalten.
+Die Google Maps API wird ausschließlich auf der Kontakt-Seite geladen, um die Datenerfassung zu minimieren.
 
 ## 📄 Lizenz
 

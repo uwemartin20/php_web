@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title><?= $data['title'] ?? 'ZiMaTec' ?></title>
+  <link rel="shortcut icon" href="#">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Bootstrap CSS -->
