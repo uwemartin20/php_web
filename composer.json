@@ -1,0 +1,16 @@
+{
+    "name": "zmadmin/php_web",
+    "description": "PHP website mit version 8.2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamza Mehmood"
+        }
+    ],
+    "require": {}
+}

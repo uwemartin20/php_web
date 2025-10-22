@@ -1,0 +1,104 @@
+.bg-main {
+  background: #ddd url("../../files/layout/background-zimatec.jpg") center top no-repeat;
+  background-size: cover;
+}
+
+.startseite .subnav .caption {
+  position: absolute;
+  bottom: 40px;
+  left: 9px;
+  padding: 5px 15px;
+  background-color: #002752;
+  font-family: 'Ubuntu Condensed';
+  font-size: 20px;
+  color: #fff;
+  text-transform: uppercase;
+  z-index: 10;
+  box-sizing: border-box;
+}
+
+h1 {
+    font: 24px Ubuntu Condensed;
+}
+
+body {
+  font: 14px Ubuntu;
+}
+
+.main-nav .nav-link {
+    font: 22px Ubuntu Condensed;
+}
+
+.main-nav .nav-item {
+    border-right: 1px solid #ddd;
+}
+
+.leistung-figure .caption {
+    background-color: #002752;
+    bottom: 40px;
+    font-size: 20px;
+}
+
+.leistung-nav .nav-item {
+    margin-bottom: 2px;
+    background-color: #fff;
+    list-style-type: none;
+}
+
+.leistung-nav .nav-item a {
+    background-color: #002752;
+    font-size: 16px;
+}
+
+.leistung-nav .nav-link:hover {
+    background-color: var(--bs-secondary);
+    color: #fff;
+}
+
+.maps-column {
+    height: 600px;
+}
+
+.news-title {
+    color: #002752;
+}
+
+.startseite-subnav .subnav a {
+  display: block;
+  border: 3px solid transparent;
+  transition: border-color 0.3s ease, transform 0.2s ease;
+}
+
+.startseite-subnav .subnav a:hover {
+  border-color: #002752; 
+}
+
+.konstruktion-section-head 
+{
+    background-color: #666;
+
+    h2 {
+        font-size: 20px;
+    }
+}
+
+.konstruktion h2 {
+    font-size: 20px;
+}
+
+.messtechnik-section-head {
+    
+    background-color: #002752;
+
+    h2 {
+        font-size: 20px;
+    }
+}
+
+.datenschutz h2 {
+    font-size: 20px;
+}
+
+.konstruktion-section-link h2:hover {
+    background-color: #002752 !important;
+}
