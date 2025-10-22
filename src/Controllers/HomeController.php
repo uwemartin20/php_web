@@ -19,4 +19,9 @@ class HomeController
 
         view('home', $data);
     }
+
+    public function offline()
+    {
+        return "<p>Sie sind offline. Bitte versuchen Sie es später erneut.</p>";
+    }
 }

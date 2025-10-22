@@ -1,0 +1,21 @@
+{
+  "name": "Zimatech Formtechnik",
+  "short_name": "Zimatech",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002752",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/files/layout/zimmermann-logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/files/layout/zimmermann-logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
