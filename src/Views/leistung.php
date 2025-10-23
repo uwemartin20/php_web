@@ -33,7 +33,7 @@ include('layout/header.php');
 
                         <!-- Service Card 2 -->
                         <div class="col-md-6 mx-auto">
-                            <a href="/leistung/rapid-prototyping/" class="text-decoration-none position-relative d-block text-center">
+                            <a href="/leistung/rapid_prototyping/" class="text-decoration-none position-relative d-block text-center">
                                 <figure class="leistung-figure mb-0">
                                 <img src="/files/leistungen/rapid-prototyping/rapid-prototyping-button.jpg" 
                                     class="img-fluid rounded" 
@@ -47,7 +47,7 @@ include('layout/header.php');
 
                         <!-- Service Card 3 -->
                         <div class="col-md-6 mx-auto">
-                            <a href="/leistung/mobile-messtechnik/" class="text-decoration-none position-relative d-block text-center">
+                            <a href="/leistung/mobile_messtechnik/" class="text-decoration-none position-relative d-block text-center">
                                 <figure class="leistung-figure mb-0">
                                 <img src="/files/leistungen/mobile-messtechnik/mobile-messtechnik-button.jpg" 
                                     class="img-fluid rounded" 
@@ -61,7 +61,7 @@ include('layout/header.php');
 
                         <!-- Service Card 4 -->
                         <div class="col-md-6 mx-auto">
-                        <a href="/leistung/reverse-engineering/" class="text-decoration-none position-relative d-block text-center">
+                        <a href="/leistung/reverse_engineering/" class="text-decoration-none position-relative d-block text-center">
                             <figure class="leistung-figure mb-0">
                             <img src="/files/leistungen/reverse-engineering/reverse-engineering-button.jpg" 
                                 class="img-fluid rounded" 
