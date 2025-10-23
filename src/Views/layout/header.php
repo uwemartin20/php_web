@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title><?= $data['title'] ?? 'ZiMaTec' ?></title>
-  <link rel="shortcut icon" href="#">
+  <link rel="icon" href="/files/layout/zimmermann-logo-192.png" type="image/x-icon" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#002752">
